@@ -25,4 +25,4 @@ This data set contains 113,937 loans with 81 variables on each loan, including l
 
 ## Key Insights for Presentation
 
-> Loan Income Ranges and home owners has less riks to get defaulted
+ Loan Income Ranges and home owners has less riks to get defaulted
