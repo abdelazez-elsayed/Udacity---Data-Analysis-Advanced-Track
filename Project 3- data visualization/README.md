@@ -7,7 +7,7 @@
 
 
 
->This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others.
+This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others.
 
 >[This data dictionary](https://www.google.com/url?q=https://docs.google.com/spreadsheet/ccc?key%3D0AllIqIyvWZdadDd5NTlqZ1pBMHlsUjdrOTZHaVBuSlE%26usp%3Dsharing&sa=D&source=editors&ust=1635341259581000&usg=AOvVaw1fWjrBGe5N3lIG6oLJiaDq) explains the variables in the data set.
 
@@ -15,10 +15,13 @@
 
 ## Summary of Findings
 
-> Prosper Score is symetrically distruted
-> most Income ranes of loan takers is between $25k and $75k
-> Home owners are likely to complete their loans 
-> Borrower Rate , Borrower APR and estimated loss are highly correlated
+* Prosper Score is symetrically distruted
+
+* most Income ranes of loan takers is between $25k and $75k
+
+* Home owners are likely to complete their loans 
+
+* Borrower Rate , Borrower APR and estimated loss are highly correlated
 
 ## Key Insights for Presentation
 
